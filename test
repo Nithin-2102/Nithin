@@ -1,1 +1,5 @@
-
+stack = []
+stack.push(10)
+stack.push(20)
+print(stack.pop())
+pribnt(stack.pop())
